@@ -1,4 +1,4 @@
-#Card Matching Game
+# Card Matching Game
 
 A simple card matching game built with React to practice state management and deployed with GH-Pages.
 
